@@ -1,0 +1,73 @@
+/* CSS Document */
+body {
+	margin: 50px;
+	background-color: saddlebrown;
+	padding: 10px;
+}
+
+header {
+	background-color: sandybrown;
+	text-align: center;
+	padding-top: 5px;
+	border-bottom: solid;
+	border-color: saddlebrown;
+	border-width: 5px;
+}
+
+nav {
+	text-align: right;
+	font-size: 80%;
+	background-color: saddlebrown;
+	color: white;
+}
+
+span {
+	color: white;
+}
+
+footer {
+	background-color: sandybrown;
+	text-align: center;
+	margin-top: 500px;
+	border-top: solid;
+	border-color: saddlebrown;
+	border-width: 5px;
+	padding-bottom: 5px;
+}
+
+.divbgout {
+    background-color: #D38955;
+}
+
+.divme {
+	background-color: sandybrown;
+	margin: 20px;
+	padding: 20px;
+	margin-left: 250px;
+	float: left;
+	height: 300px;
+	width: 500px;
+	border: solid;
+	border-width: 5px;
+	border-color: saddlebrown;
+}
+
+.divfriends {
+	background-color: sandybrown;
+	margin: 20px;
+	padding: 20px;
+	margin-left: 150px;
+	float: left;
+	height: 300px;
+	width: 500px;
+	border: solid;
+	border-width: 5px;
+	border-color: saddlebrown;
+}
+
+.insidediv {
+	padding: 10px;
+	float: right;
+}
+/* CSS Document */
+
